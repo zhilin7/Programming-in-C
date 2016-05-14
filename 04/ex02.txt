@@ -1,0 +1,4 @@
+invalid variable names:
+char: reversed word
+6_05: start with a number
+A$: $ is not a valid character

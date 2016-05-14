@@ -1,0 +1,6 @@
+invalid constants:
+0X0G1: should follow by a P not G
+17777s: cannot follow by s
+0996: invalid octal numbers
+1.2Fe-7: syntax error, error number suffix
+15,000: cannot be expressed using commas
